@@ -1,3 +1,9 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Thu May  3 10:45:33 2018
+
+@author: Frank
+"""
 from RecommenderMetrics import RecommenderMetrics
 from EvaluationData import EvaluationData
 
